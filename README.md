@@ -1,6 +1,6 @@
-# Cabo Bob's App 🌮
+# Burrito Ordering App 🌮
 
-A full-featured iOS application for Cabo Bob's restaurant that provides users with a seamless ordering experience, store location finder, and account management system.
+A full-featured iOS application that provides users with a seamless food ordering experience, store location finder, and account management system.
 
 ## 📱 Features
 
@@ -22,8 +22,8 @@ A full-featured iOS application for Cabo Bob's restaurant that provides users wi
 - **Dietary Preferences**: Support for vegan and vegetarian options
 
 ### 🗺️ Store Locator
-- **Interactive Map**: Find nearby Cabo Bob's locations using MapKit
-- **Multiple Locations**: View all restaurant locations in the Austin area
+- **Interactive Map**: Find nearby restaurant locations using MapKit
+- **Multiple Locations**: View all restaurant locations
 - **Location Details**: Get information about each store location
 
 ### ⚙️ Settings & Preferences
@@ -66,8 +66,8 @@ A full-featured iOS application for Cabo Bob's restaurant that provides users wi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/justin23bohrer/Cabo-Bobs-App.git
-   cd Cabo-Bobs-App
+   git clone https://github.com/justin23bohrer/Burrito-Ordering-App.git
+   cd Burrito-Ordering-App
    ```
 
 2. **Firebase Configuration**
@@ -103,7 +103,7 @@ A full-featured iOS application for Cabo Bob's restaurant that provides users wi
    - Review and place your order
 
 3. **Finding Stores**
-   - Use the store locator to find nearby Cabo Bob's locations
+   - Use the store locator to find nearby restaurant locations
    - View locations on the interactive map
    - Get directions to your preferred location
 
@@ -179,4 +179,4 @@ For support or questions about this application, please open an issue on GitHub 
 
 ---
 
-*Built with ❤️ for Cabo Bob's lovers everywhere!*
+*Built with ❤️ for food ordering lovers everywhere!*
